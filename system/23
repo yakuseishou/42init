@@ -1,0 +1,22 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    23                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: kchen2 <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2019/03/21 20:18:58 by kchen2            #+#    #+#              #
+#    Updated: 2019/03/21 20:30:22 by kchen2           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#!/bin/bash
+
+echo "For graphic section: 
+	click the power icon on the top right 
+	and click username and then click log out,
+ 	then choose a different user to log in"
+
+echo "For ssh session:
+	ctrl+d allows you to exit current session and
+ 	then do ssh user@ipaddress -p port# to log in as a different user"
